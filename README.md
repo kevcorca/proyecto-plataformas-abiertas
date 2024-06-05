@@ -5,6 +5,7 @@ Se establece la base de datos de una tienda de ropa la cual contiene marcas, pre
 [Uploading Proyecto1_aplicacionesAbiertas.drawio…]()
 
 Diagrama de la Base de Datos
-![Proyecto1_aplicacionesAbiertas](https://github.com/kevcorca/proyecto-plataformas-abiertas/assets/77799855/f488fea1-c50d-4ef4-b338-8b54d747ca4b)
+
+![Proyecto1_aplicacionesAbiertas drawio](https://github.com/kevcorca/proyecto-plataformas-abiertas/assets/77799855/68e9e43c-ab69-4dfd-80f2-b2b820fedf13)
 
 Kevin Cordero Calderon
